@@ -9,4 +9,4 @@
 
 [![linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=)]()    [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=)]()    [![typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=Typescript&logoColor=)]()     [![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=)]()
 
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=)]()  [![GAS](https://img.shields.io/badge/GAS-000?style=for-the-badge&logo=google&logoColor=FF000)]()  [![c](https://img.shields.io/badge/c%20languae-000?style=for-the-badge&logo=c&logoColor=FF000)]()
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=)]()  [![GAS](https://img.shields.io/badge/GAS-000?style=for-the-badge&logo=google&logoColor=FF000)]() 
