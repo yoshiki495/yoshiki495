@@ -19,5 +19,5 @@
 
 [![slideshare](https://img.shields.io/badge/slideshare-000?style=for-the-badge&logo=slideshare&logoColor=blue)](https://www.slideshare.net/yoshikiptt)
 
-[![myapp](https://img.shields.io/badge/myapp-000?style=for-the-badge&logo=apples&logoColor=blue)](https://apps.apple.com/jp/app/new-job-with/id1611340066)
+[![myapp](https://img.shields.io/badge/myapp-000?style=for-the-badge&logo=apple&logoColor=blue)](https://apps.apple.com/jp/app/new-job-with/id1611340066)
 
