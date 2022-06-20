@@ -15,9 +15,9 @@
 
 ## Connect me on
 
+[![myapp](https://img.shields.io/badge/myapp-000?style=for-the-badge&logo=apple&logoColor=blue)](https://apps.apple.com/jp/app/new-job-with/id1611340066)
+
 [![zenn](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)](https://zenn.dev/yoshiki495)
 
 [![slideshare](https://img.shields.io/badge/slideshare-000?style=for-the-badge&logo=slideshare&logoColor=blue)](https://www.slideshare.net/yoshikiptt)
-
-[![myapp](https://img.shields.io/badge/myapp-000?style=for-the-badge&logo=apple&logoColor=blue)](https://apps.apple.com/jp/app/new-job-with/id1611340066)
 
