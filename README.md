@@ -12,3 +12,9 @@
 [![linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=)]()    [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=)]()    [![typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=Typescript&logoColor=)]()     [![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=)]()
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=)]()  [![GAS](https://img.shields.io/badge/GAS-000?style=for-the-badge&logo=google&logoColor=FF000)]() 
+
+## Connect me on
+
+[![zenn](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)](https://zenn.dev/yoshiki495)
+
+[![slideshare](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=slideshare&logoColor=blue)](https://www.slideshare.net/yoshikiptt)
