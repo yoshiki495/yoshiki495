@@ -17,4 +17,4 @@
 
 [![zenn](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)](https://zenn.dev/yoshiki495)
 
-[![slideshare](https://img.shields.io/badge/slideshare-000?style=for-the-badge&logo=slideshare&logoColor=blue)](https://www.slideshare.net/yoshikiptt)
+[![my app](https://img.shields.io/badge/apple-000?style=for-the-badge&logo=apple&logoColor=blue)](https://apps.apple.com/jp/app/new-job-with/id1611340066)
