@@ -3,7 +3,9 @@
 
 ## Skill
 
-[![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()    [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django&logoColor=FF000)]()
+[![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()    [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django&logoColor=FF000)]()  [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
+
+[![php](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP&logoColor=A)]()    [![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=Laravel&logoColor=FF000)]() 
 
 [![node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=FF000)]()    [![javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=A)]()    [![vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A)]()    [![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=React&logoColor=FF000)]()
 
