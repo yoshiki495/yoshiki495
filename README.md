@@ -17,4 +17,4 @@
 
 [![zenn](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)](https://zenn.dev/yoshiki495)
 
-[![slideshare](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=slideshare&logoColor=blue)](https://www.slideshare.net/yoshikiptt)
+[![slideshare](https://img.shields.io/badge/slideshare-000?style=for-the-badge&logo=slideshare&logoColor=blue)](https://www.slideshare.net/yoshikiptt)
